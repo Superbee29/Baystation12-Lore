@@ -160,5 +160,5 @@ TBD
 TBD
 -->
 
-[1]: https://wiki.baystation12.net/images/thumb/c/c2/Harrqac.png/100px-Harrqac.png
+[1]: https://i.imgur.com/21cNspn.png
 [2]: http://i.imgur.com/a2LTkue.png
